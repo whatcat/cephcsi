@@ -1,0 +1,1 @@
+FROM quay.io/cephcsi/csphcsi:v1.2.1
